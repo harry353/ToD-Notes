@@ -1,0 +1,1 @@
+Central keep in [[Greenest]]. High stone walls and towers, wooden gates.

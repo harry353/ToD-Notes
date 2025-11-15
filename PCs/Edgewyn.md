@@ -1,0 +1,1 @@
+Lives in the [[The Wood of Sharp Teeth]]. He is a tall-ish, pale, elf that stumbled out of the woods. Wears unwashed leather armor, is haunched over, wondering around talking to his "chat". His followers send him scrolls for him to read. Also sells his bathwater. 

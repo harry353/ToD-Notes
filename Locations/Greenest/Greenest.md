@@ -1,0 +1,1 @@
+Small village, lots of farmland, small stream in the southern part of the town. Main notable feature is that on the tallest hill in the town's center there is a small keep where the governor resides.

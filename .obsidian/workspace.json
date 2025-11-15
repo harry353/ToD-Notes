@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "c5b1cad8b652684b",
+    "type": "split",
+    "children": [
+      {
+        "id": "936c4f39e013e708",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "029be27829ab4588",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/Session 2.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 2"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ab8cecd4b5316407",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7c6fa1cf3bf2c84",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe68abbc4debe9c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7af12fa281e1d7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba359b75d27eb402",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7850e7e3693ca8f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "greenest",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a8d93d522738ba16",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.5
+  },
+  "right": {
+    "id": "59aed3572789f8e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "94d760e3ffedc4e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25df91bfe35dae00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "34b298b0703c20b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1810c9df5a8ee6b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ac73cfd64b61f01f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PCs/Edgewyn.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Edgewyn"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "c7c6fa1cf3bf2c84",
+  "lastOpenFiles": [
+    "Sessions/Session 2.md",
+    "Other/Kobolds.md",
+    "Other/Unanswered Questions.md",
+    "PCs/Edgewyn.md",
+    "PCs/Garus.md",
+    "PCs/Piiinuz.md",
+    "PCs/Thora.md",
+    "Quests/The Greenest Mill.md",
+    "Quests/The Temple of Chauntea.md",
+    "Sessions/Session 1.md",
+    "NPCs/Governor Nighthill.md",
+    "NPCs/Dragon Lady.md",
+    "Locations/Greenest/Greenest.md",
+    "Templates/NPC Template.md",
+    "Locations/Locations.md",
+    "Templates/Quest Template.md",
+    "Locations/Greenest/Temple of Chauntea.md",
+    "Locations/Greenest/Greenest Keep.md",
+    "Locations/The Wood of Sharp Teeth.md",
+    "Greenest file.md",
+    "Locations/Greenest file.md",
+    "Deities/Chauntea.md",
+    "Locations/Greenest",
+    "Locations/Elturel",
+    "Images",
+    "Deities",
+    "Images/Pasted image 20251112221150.png",
+    "Locations/Elturel.md",
+    "Untitled.md",
+    "kobold.md",
+    "Untitled.base",
+    "Other",
+    "PCs",
+    "Untitled.canvas",
+    "Templates",
+    "Quests",
+    "Items"
+  ]
+}

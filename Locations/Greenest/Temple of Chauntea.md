@@ -1,0 +1,1 @@
+Temple located in the south-east part of [[Greenest]], dedicated to the goddess [[Chauntea]].

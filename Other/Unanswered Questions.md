@@ -1,0 +1,1 @@
+* What did we miss out on when we failed to save the woman from the [[Kobolds]] in [[Greenest]]?
