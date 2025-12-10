@@ -1,4 +1,6 @@
-## Full Session
+Tuesday, December 9, 2025
+
+## Session Summary
 
 The priest introduces himself as [[Eadyan Falconmoon]]. The party discusses how to return to the tunnel leading back to the [[Greenest Keep|keep]] and decides the best option is to move directly to the entrance as quickly as possible. They manage to reach it without being noticed by the raiders, slip through the gate they had opened earlier, and make it safely into the keep. Families reunite, and the governor thanks the party for their help, though he notes that the [[The Greenest Mill|mill]] has been effectively destroyed. The party takes a short rest while [[Eadyan Falconmoon]] moves through the keep, offering blessings of Chauntea.
 
@@ -12,7 +14,7 @@ During this discussion, a limping, plainly robed figure approaches. He introduce
 
 Before departing, the party returns to the place where [[Piiinuz]] had been held and recovers a chest containing all of her belongings.
 
-## Quick Summary
+## Key Events
 
 - The party meets [[Eadyan Falconmoon]], returns to the [[Greenest Keep|keep]] through the tunnel unnoticed, reunites families, and rests while noting the destruction of the [[The Greenest Mill|mill]].
 - At sunrise, a blue half-dragon with kobolds presents four prisoners and demands the defenders send their best warrior.

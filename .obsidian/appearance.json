@@ -1,4 +1,5 @@
 {
   "accentColor": "#b74c4a",
-  "theme": "system"
+  "theme": "system",
+  "nativeMenus": false
 }

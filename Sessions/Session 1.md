@@ -1,4 +1,6 @@
-## Full Session
+Wednesday, October 29, 2025
+
+## Session Summary
 
 [[Piiinuz]] wakes up in a cell after an ambush, the last thing she remembers. She’s alone, and the cuffs on her wrists are unusual. She manages to pry the window bars loose and squeeze through to escape.
 
@@ -16,7 +18,8 @@ It turns out that the attack comes from a blue dragon, making several passes bef
 
 [[Piiinuz]] then spots eight small dragons attacking a woman in an alley. [[Garus]] and [[Thora]] are nearby; [[Edgewyn]] is farther away and is late to the fight. The woman is stabbed and killed. One of the creatures speaks to [[Garus]] in Draconic, who recognizes them as [[Kobolds]]. The group defeats them, keeping one alive for interrogation.
 
-## Quick Summary
+## Key Events
+
 - [[Piiinuz]] escapes captivity after an ambush and heads toward [[Greenest]] when she sees a flash of light.
 - [[Edgewyn]] and [[Garus]] meet in town after a chaotic misunderstanding, and [[Piiinuz]] arrives pursued and wearing anti-magic manacles.
 - A dragon attacks [[Greenest]], causing widespread fires; [[Thora]] sees the destruction from afar and rushes toward the city.

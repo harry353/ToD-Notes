@@ -1,10 +1,12 @@
-## Full Session
+Wednesday, November 19, 2025
+
+## Session Summary
 
 Examining the captured man, he appears experienced in combat from his scars but otherwise unremarkable. [[Garus]] questions him without success. [[Thora]] casts _zone of truth_, prompting him to try to escape, but [[Garus]] restrains him. Under threat, he admits that the [[Cult of the Dragon|Wearers of Purple]] are gathering loot from towns across the countryside to build a great hoard that will herald the return of "Her Majesty", revealed to be [[Tiamat]]. He explains that the blue dragon was meant as a show of force announcing the rise of chromatic dragons. He also names two leaders: Rezmir, a black half-dragon, and Azbara Jos, a human mage in red robes. He states the raiders’ camp is about a four-hour march south and does not know the next town to be attacked. When he tries to flee again, [[Piiinuz]] grapples him and [[Edgewyn]] kills him with _mage hand_.
 
 The party moves on and reaches the [[Temple of Chauntea|temple]]. A ten-foot stone wall surrounds it. Outside the main entrance, a group of [[Kobolds|kobolds]] and black-robed humanoids is operating a battering ram. Loud noises echo from the south. [[Thora]] casts _fog cloud_, but the attackers will arrive in roughly two minutes. [[Garus]] and [[Edgewyn]] observe that the battering ram is failing and identify thirteen pairs of humanoid footsteps and two larger growling creatures approaching through the fog. The party hides behind a nearby building to wait. Soon, three hooded humanoids, ten kobolds, and two ambush drakes pass through the fog in front of them and continue onward, seemingly patrolling the perimeter.
 
-## Quick Summary
+## Key Events
 
 - The captured man reveals under threat that the [[Cult of the Dragon|Wearers of Purple]] are gathering a hoard to bring back [[Tiamat]] and that their camp lies four hours south; he also names Rezmir and Azbara Jos as leaders before being killed by [[Edgewyn]].
 - The party travels to the [[Temple of Chauntea|temple]], which is surrounded by a stone wall and under attack by [[Kobolds|kobolds]] and black-robed cultists attempting to breach the main entrance.

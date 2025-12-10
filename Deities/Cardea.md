@@ -1,0 +1,3 @@
+Cardea, the Ever-Turning, is a minor and largely unrecognized deity of Mechanus whose domain encompasses hinges, ball bearings, axles, and all small mechanisms that allow greater structures to function. She is not a goddess of valor or cosmic judgment, but of maintenance, continuity, and the unseen labor that keeps the multiverse moving. Born from the endless bureaucracy of Mechanus, Cardea’s purpose is simple and absolute: ensure that what turns continues to turn, and that no rust, neglect, or disorder halts the machinery of existence. 
+
+She has chosen [[Garus]] as one of her few champions on the Prime Material Plane.

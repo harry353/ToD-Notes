@@ -1,4 +1,6 @@
-## Full Session
+Wednesday, November 12
+
+## Session Summary
 
 [[Garus]] notices that, despite the roar of the fire, there’s still fighting near the [[Greenest Keep|keep]], with more groups of raiders around and many townsfolk fleeing there for protection. He questions the captured [[Kobolds|kobold]], who says that a certain [[Tiamat|Tiamat]] ordered them to collect “shinies” and that their camp lies south of town.
 
@@ -10,7 +12,7 @@ Since the keep is surrounded, the group uses a secret tunnel that leads out to t
 
 At the tunnel’s end, [[Garus]] oils the rusty door so [[Thora]] can unlock it. [[Thora]] emerges first and spots a small group of raiders on the riverbank—two hooded humans and six [[Kobolds|kobolds]]. The group fails to stay quiet, alerting one of the humans, who appears to be a man in his thirties. A fight breaks out, and when it’s over, one of the humans is left unconscious for interrogation.
 
-## Quick Summary
+## Key Events
 
 - The captured [[Kobolds|kobold]] reveals that a [[Tiamat]] leads the raiders and that their camp is south of town; the party then frees [[Piiinuz]] from her manacles and heads toward the [[Greenest Keep|keep]].
 - They reach the keep as it closes, meet the injured [[Governor Nighthill]], and learn about two crises: townsfolk trapped in the [[The Temple of Chauntea|Temple of Chauntea]] and raiders attacking the [[The Greenest Mill|mill]].
