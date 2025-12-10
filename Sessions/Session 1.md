@@ -12,7 +12,7 @@ While they’re running and shouting, [[Edgewyn]] hears more screams from inside
 
 Meanwhile, [[Thora]], who was sent on a mission after [[Elturel]] disappeared and returned a year ago, sees smoke and a massive blue wingspan in the distance while setting up camp. She runs toward the city to help.
 
-It turns out that the attack comes from a dragon, making several passes before flying away. [[Garus]] checks that [[Edgewyn]] is safe, then runs back to help the townsfolk. [[Piiinuz]] returns to the prison with a sword, but her former allies have fled. [[Garus]] manages to save only one person from the fires.
+It turns out that the attack comes from a blue dragon, making several passes before flying away. [[Garus]] checks that [[Edgewyn]] is safe, then runs back to help the townsfolk. [[Piiinuz]] returns to the prison with a sword, but her former allies have fled. [[Garus]] manages to save only one person from the fires.
 
 [[Piiinuz]] then spots eight small dragons attacking a woman in an alley. [[Garus]] and [[Thora]] are nearby; [[Edgewyn]] is farther away and is late to the fight. The woman is stabbed and killed. One of the creatures speaks to [[Garus]] in Draconic, who recognizes them as [[Kobolds]]. The group defeats them, keeping one alive for interrogation.
 

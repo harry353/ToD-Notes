@@ -1,1 +1,0 @@
-Mysterious person that ordered the [[Kobolds|kobolds]] to attack [[Greenest]]. Referred to as the "Dragon Lady" by the [[Kobolds|kobolds]]. Unknown how she's related to the actual dragon that attacked the town. 

@@ -1,0 +1,1 @@
+Berdusk is the city where the half-elf monk [[Leosin Erlanthar]] comes from and where his monastery is located. 

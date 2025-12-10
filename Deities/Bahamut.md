@@ -1,0 +1,1 @@
+Also known as the Platinum Dragon. Lawful good, he is the brother of [[Tiamat]].

@@ -1,0 +1,5 @@
+The evil goddess of dragonkind and the goddess of greed, who once served Asmodeus, ruler of the Nine Hells. Originally part of the draconic pantheon, she is the chromatic counterpart to her brother [[Bahamut]], who embodies good. Long ago she was banished to the Nine Hells and trapped there. For a time she held the position of archdevil of Avernus, but because she had little interest in the Blood War she was demoted to acting as a guard at the entrance to the next layer, Dis.
+
+Her followers on the Material Plane work to free their queen, restore her power, and bring her into the world to overthrow the gods and plunge it into chaos. She is most often depicted as a five-headed dragon, each head representing one of the chromatic dragon colors. She also has two additional known avatars: a dracolich version of this five-headed form, an undead skeletal dragon whose soul would be bound to a separate phylactery, and a third form that remains unknown.
+
+She is the mysterious "Dragon Lady" that ordered the [[Kobolds|kobolds]] to attack [[Greenest]]. 

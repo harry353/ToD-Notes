@@ -1,1 +1,2 @@
-* What did we miss out on when we failed to save the woman from the [[Kobolds]] in [[Greenest]]?
+* What did we miss out on when we failed to save the woman from the [[Kobolds]] in [[Greenest]] during [[Session 1]]?
+* What would have happened if [[Garus]] had beaten [[Cyanwrath]] during the duel outside the [[Greenest Keep]]?

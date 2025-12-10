@@ -4,35 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "936c4f39e013e708",
+        "id": "de709f3ac5a60fbb",
         "type": "tabs",
         "children": [
           {
-            "id": "029be27829ab4588",
+            "id": "57d356e9f86432a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 2.md",
-                "mode": "preview",
+                "file": "Quests/Investigate the Raiders for Governor Nighthill.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 2"
+              "title": "Investigate the Raiders for Governor Nighthill"
             }
           }
         ]
       },
       {
-        "id": "ab8cecd4b5316407",
+        "id": "75e9563211224933",
         "type": "tabs",
         "children": [
           {
-            "id": "c7c6fa1cf3bf2c84",
+            "id": "2f1f0d1d299521d5",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "228bb9e0bcffe2a9",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.8576182670456007,
+                  "close": true
+                }
+              },
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -69,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "greenest",
+                "query": "baha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 272.5
   },
   "right": {
     "id": "59aed3572789f8e5",
@@ -110,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/Greenest/Greenest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Greenest"
             }
           },
           {
@@ -128,11 +165,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Locations/Greenest/Greenest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Greenest"
             }
           },
           {
@@ -156,22 +194,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCs/Edgewyn.md",
-                "followCursor": false,
-                "showSearch": false,
+                "file": "Locations/Greenest/Greenest.md",
+                "followCursor": true,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Edgewyn"
+              "title": "Outline of Greenest"
+            }
+          },
+          {
+            "id": "9a4d3a3e5ef426dd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 289.5,
-    "collapsed": true
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,41 +228,47 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7c6fa1cf3bf2c84",
+  "active": "ba359b75d27eb402",
   "lastOpenFiles": [
-    "Sessions/Session 2.md",
-    "Other/Kobolds.md",
-    "Other/Unanswered Questions.md",
-    "PCs/Edgewyn.md",
-    "PCs/Garus.md",
-    "PCs/Piiinuz.md",
-    "PCs/Thora.md",
+    "Quests/Investigate the Raiders for Governor Nighthill.md",
+    "Quests/Find Leosin Erlanthar.md",
     "Quests/The Greenest Mill.md",
     "Quests/The Temple of Chauntea.md",
-    "Sessions/Session 1.md",
+    "Sessions/Session 5.md",
+    "Locations/Berdusk.md",
+    "Templates/Location Template.md",
+    "Factions/Harpers.md",
+    "Images/Pasted image 20251210020023.png",
+    "Templates/Faction Template.md",
+    "NPCs/Nesim Waladra.md",
     "NPCs/Governor Nighthill.md",
-    "NPCs/Dragon Lady.md",
+    "NPCs/Leosin Erlanthar.md",
     "Locations/Greenest/Greenest.md",
+    "NPCs/Cyanwrath.md",
     "Templates/NPC Template.md",
-    "Locations/Locations.md",
-    "Templates/Quest Template.md",
-    "Locations/Greenest/Temple of Chauntea.md",
-    "Locations/Greenest/Greenest Keep.md",
-    "Locations/The Wood of Sharp Teeth.md",
-    "Greenest file.md",
-    "Locations/Greenest file.md",
+    "Templates/Session Template.md",
+    "Deities/Bahamut.md",
+    "Factions/Cult of the Dragon.md",
+    "Images/Pasted image 20251209222254.png",
+    "symbol of the harpers.md",
+    "Other/Unanswered Questions.md",
+    "Deities/Tiamat.md",
     "Deities/Chauntea.md",
+    "NPCs/Eadyan Falconmoon.md",
+    "Sessions/Session 4.md",
+    "Images/Pasted image 20251209205013.png",
+    "Images/Pasted image 20251209205023.png",
+    "Sessions/Session 2.md",
+    "Sessions/Session 3.md",
     "Locations/Greenest",
     "Locations/Elturel",
     "Images",
     "Deities",
     "Images/Pasted image 20251112221150.png",
-    "Locations/Elturel.md",
-    "Untitled.md",
-    "kobold.md",
     "Untitled.base",
     "Other",
     "PCs",

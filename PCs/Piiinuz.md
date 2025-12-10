@@ -1,1 +1,1 @@
-Name pronounced as "pine nuts". Short ratatosk, artificer. Had former allies in [[Greenest]] that had her captured in a cell, for reasons unknown so far. Can create canons that follow her around.
+Name pronounced as "pine nuts". Short ratatosk, artificer. Had former allies in [[Greenest]] that had her captured in a cell, for reasons unknown so far. Can create canons that follow her around. 

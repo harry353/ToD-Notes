@@ -1,0 +1,21 @@
+## Full Session
+
+The priest introduces himself as [[Eadyan Falconmoon]]. The party discusses how to return to the tunnel leading back to the [[Greenest Keep|keep]] and decides the best option is to move directly to the entrance as quickly as possible. They manage to reach it without being noticed by the raiders, slip through the gate they had opened earlier, and make it safely into the keep. Families reunite, and the governor thanks the party for their help, though he notes that the [[The Greenest Mill|mill]] has been effectively destroyed. The party takes a short rest while [[Eadyan Falconmoon]] moves through the keep, offering blessings of Chauntea.
+
+A few hours later, near sunrise, the sky remains filled with smoke though many fires have begun to burn out. [[Governor Nighthill]] calls the party to the wall after noticing movement in the distance. [[Edgewyn]] identifies a large seven-foot-tall, blue-scaled, draconic humanoid accompanied by kobolds. They push forward four human prisoners: a woman, a teenage boy in a blood-soaked tunic, and two small children. The creature calls out to the defenders of Greenest, claiming the night a success and offering a challenge: if the defenders send out their best warrior to fight, the prisoners will be released.
+
+[[Governor Nighthill]] pleads for a hero to accept. [[Garus]] steps forward. One of the commoners recognizes the prisoners as his sister and her children and begs the party for help. [[Garus]] approaches, and the half-dragon, armed with a greatsword, smiles at the sight of a challenger, and orders the kobolds to release all prisoners except the woman, keeping her as insurance and warning that any interference will result in her death. [[Garus]] holds the advantage early in the duel but is ultimately defeated. The half-dragon keeps his word and releases the mother. The raiders then depart, apparently satisfied with what they came for. As they withdraw, [[Garus]] calls out, asking the half-dragon’s name. A kobold answers: [[Cyanwrath]]. 
+
+The party brings [[Garus]] back to consciousness and finally takes a long rest inside the [[Greenest Keep|keep]]. After finishing his trance, [[Edgewyn]] spends time playing with the keep’s rats. He later asks the governor whether any specific or valuable items have gone missing beyond ordinary loot. The governor says no, though he remains deeply concerned about who the raiders are. He offers to hire the party to investigate: determine the raiders’ camp, numbers, leaders, motives, future plans, and recover any stolen belongings.
+
+During this discussion, a limping, plainly robed figure approaches. He introduces himself as [[Nesim Waladra]]. He wants to join the party but cannot travel due to his injuries. He explains that his master, [[Leosin Erlanthar]], went missing during the attack and only his broken staff was found. His master had been investigating these bandits for some time. He implores the party to look for him when they find the raiders’ camp. He describes [[Leosin Erlanthar|Leosin]] also hands [[Garus]] a small silver pin shaped like a harp, a symbol of the [[Faction Template]], a secretive organization focused on information gathering and monitoring the balance of power in Faerun.
+
+Before departing, the party returns to the place where [[Piiinuz]] had been held and recovers a chest containing all of her belongings.
+
+## Quick Summary
+
+- The party meets [[Eadyan Falconmoon]], returns to the [[Greenest Keep|keep]] through the tunnel unnoticed, reunites families, and rests while noting the destruction of the [[The Greenest Mill|mill]].
+- At sunrise, a blue half-dragon with kobolds presents four prisoners and demands the defenders send their best warrior.
+- [[Garus]] accepts, fights the half-dragon, is defeated, and the remaining prisoner is released before the raiders withdraw; a kobold names the creature [[Cyanwrath]].
+- The party revives [[Garus]] and rests; [[Edgewyn]] asks about missing valuables, prompting the governor to hire them to investigate the raiders’ camp and motives.
+- Injured [[Nesim Waladra]] reports his master [[Leosin Erlanthar]] is missing, gives [[Garus]] a silver harp pin tied to a secretive faction, and the party retrieves [[Piiinuz]]’s belongings.
