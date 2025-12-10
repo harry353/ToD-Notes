@@ -1,4 +1,4 @@
-Wednesday, December 17, 2025
+Wednesday, December 17, %% 2025 %%
 
 ## Session Summary
 
