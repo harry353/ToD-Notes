@@ -11,14 +11,14 @@
       "query": "path:NPCs  ",
       "color": {
         "a": 1,
-        "rgb": 15001633
+        "rgb": 12501279
       }
     },
     {
       "query": "path:Deities  ",
       "color": {
         "a": 1,
-        "rgb": 10368483
+        "rgb": 8465849
       }
     },
     {
@@ -46,7 +46,7 @@
       "query": "path:Quests  ",
       "color": {
         "a": 1,
-        "rgb": 9396772
+        "rgb": 6965531
       }
     }
   ],
@@ -60,6 +60,6 @@
   "repelStrength": 14.4270833333333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8334910229281811,
+  "scale": 1.1703854447090842,
   "close": true
 }

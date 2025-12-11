@@ -4,32 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "75e9563211224933",
+        "id": "2544483bd5dfcf77",
         "type": "tabs",
+        "dimension": 42.57925072046109,
         "children": [
           {
-            "id": "269a25efde4ca679",
+            "id": "2432ffbacef4ada7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 6.md",
+                "file": "Sessions/Session 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 6"
+              "title": "Session 5"
             },
-            "group": "3bee5089c9210e5a"
+            "group": "ed13c054fdb28233"
           }
         ]
       },
       {
-        "id": "f55906f4c005d1c9",
+        "id": "4f66a810710feb2e",
         "type": "tabs",
+        "dimension": 57.42074927953891,
         "children": [
           {
-            "id": "d97e810d0162da66",
+            "id": "84b0958987207cb7",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -41,12 +43,12 @@
             }
           },
           {
-            "id": "228bb9e0bcffe2a9",
+            "id": "462c3ac0120065a4",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sessions/Session 6.md",
+                "file": "Sessions/Session 5.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -57,7 +59,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": false,
@@ -69,14 +71,14 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 2.045474860686112,
+                  "scale": 1,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Session 6"
+              "title": "Graph of Session 5"
             },
-            "group": "3bee5089c9210e5a"
+            "group": "ed13c054fdb28233"
           }
         ]
       }
@@ -236,22 +238,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d97e810d0162da66",
+  "active": "84b0958987207cb7",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Sessions/Session 6.md",
     "Sessions/Session 5.md",
+    "Sessions/Session 6.md",
+    "2025-12-10.md",
+    "NPCs/Eadyan Falconmoon.md",
+    "NPCs/Cyanwrath.md",
+    "PCs/Garus.md",
+    "Untitled.md",
     "Sessions/Session 4.md",
     "Sessions/Session 3.md",
     "Sessions/Session 2.md",
     "Sessions/Session 1.md",
     "Templates/Session Template.md",
     "Locations/The Wood of Sharp Teeth.md",
-    "PCs/Garus.md",
     "Deities/Cardea.md",
     "Other/Unanswered Questions.md",
     "NPCs/Governor Nighthill.md",
-    "NPCs/Cyanwrath.md",
     "Quests/Investigate the Raiders for Governor Nighthill.md",
     "Untitled.canvas",
     "Quests/Find Leosin Erlanthar.md",
@@ -264,8 +268,6 @@
     "Templates/Faction Template.md",
     "NPCs/Nesim Waladra.md",
     "NPCs/Leosin Erlanthar.md",
-    "Locations/Greenest/Greenest.md",
-    "Templates/NPC Template.md",
     "Images/Pasted image 20251209222254.png",
     "Images/Pasted image 20251209205013.png",
     "Images/Pasted image 20251209205023.png",
