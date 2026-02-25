@@ -6,4 +6,4 @@
 
 **Faction/Position/Rank:** Local priest tending the temple and its congregation
 
-**Notes:** Calm and level-headed. Lost his hand during the [[The Temple of Chauntea|temple battle]]. Appears devoted to protecting the townsfolk.
+**Notes:** Calm and level-headed. Lost his hand during the [[✓ The Temple of Chauntea|temple battle]]. Appears devoted to protecting the townsfolk.
