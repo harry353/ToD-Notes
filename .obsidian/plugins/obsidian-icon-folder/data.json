@@ -39,10 +39,10 @@
   "Factions": "FarFlag",
   "Items": "LiSword",
   "Locations": "IbLocation",
-  "NPCs": "FiUser",
   "Quests": "FasExclamation",
   "Other": "BoBxArchive",
   "PCs": "RiTeamLine",
   "Deities": "TiTopologyStarRing2",
-  "Images": "LiImages"
+  "Images": "LiImages",
+  "NPCs (important)": "FiUser"
 }
