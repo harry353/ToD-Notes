@@ -1,4 +1,4 @@
-Wednesday, November 26, 2025
+Wednesday, 26th of November, 2025
 
 ## Session Summary
 

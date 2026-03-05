@@ -1,4 +1,4 @@
-Wednesday, January 21, 2026
+Wednesday, 21st of January, 2026
 
 ## Session Summary
 

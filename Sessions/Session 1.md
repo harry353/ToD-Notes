@@ -1,4 +1,4 @@
-Wednesday, October 29, 2025
+Wednesday, 29th of October, 2025
 
 ## Session Summary
 

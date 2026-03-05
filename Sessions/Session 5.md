@@ -1,4 +1,4 @@
-Tuesday, December 9, 2025
+Tuesday, 9th of December, 2025
 
 ## Session Summary
 

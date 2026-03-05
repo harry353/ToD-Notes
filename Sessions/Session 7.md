@@ -1,4 +1,4 @@
-Wednesday, February 25, 2026
+Wednesday, 25th of February, 2026
 
 ## Session Summary
 
@@ -6,7 +6,7 @@ Wednesday, February 25, 2026
 
 During the first three watches, [[Edgewyn]] heard sounds of revelry from further down the valley; otherwise, [[Garus]] and [[Thora]]'s shifts remained quiet. However, during the final watch, [[Piiinuz]] heard approaching voices and alerted the party. They successfully hid as 4 humanoids and 8 [[kobolds]], the same group from [[Session 6|earlier]], passed by without noticing them. The party then finished their long rest.
 
-Continuing toward the noise, the party encountered a 20-foot wooden perimeter wall with two towers manned by four [[kobolds]] each. [[Garus]] deceived the guards into granting entry by claiming the party were new recruits, identifying "[[Cult of the Dragon Officers|Mondath]]" as their commanding officer to maintain the ruse. Inside the camp of hundreds of humanoids and kobolds, the party overheard a pair of the latter mentioning a "cave at the back", which should be "avoided and not talked about". Looking around, some more, while [[Leosin Erlanthar|Leosin]] was not immediately visible, they spotted a masked figure dragging a 5'6" [[Blonde prisoner|prisoner]] in rags. Grabbing some mugs of ale to blend in better, the party followed them to the rear of the camp. There, they found several living captives tied to stakes, including one who appeared to be [[Leosin Erlanthar|Leosin]] himself.
+Continuing toward the noise, the party encountered a 20-foot wooden perimeter wall with two towers manned by four [[kobolds]] each. [[Garus]] deceived the guards into granting entry by claiming the party were new recruits, identifying "[[Other Cult of the Dragon Officers|Mondath]]" as their commanding officer to maintain the ruse. Inside the camp of hundreds of humanoids and kobolds, the party overheard a pair of the latter mentioning a "cave at the back", which should be "avoided and not talked about". Looking around, some more, while [[Leosin Erlanthar|Leosin]] was not immediately visible, they spotted a masked figure dragging a 5'6" [[Blonde prisoner|prisoner]] in rags. Grabbing some mugs of ale to blend in better, the party followed them to the rear of the camp. There, they found several living captives tied to stakes, including one who appeared to be [[Leosin Erlanthar|Leosin]] himself.
 
 ## Key Events
 
