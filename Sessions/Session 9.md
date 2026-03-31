@@ -2,7 +2,7 @@ Wednesday, 30th of March, 2026
 
 ## Session Summary
 
-The party breaks for the camp exit while the [[kobolds]] and [[Frulam Mondath]] are distracted by the fire. [[Garus]] helps [[Leosin Erlanthar]] move, but the group is spotted almost immediately, everyone except [[Edgewyn]]. Garus trips and goes down with Leosin, drawing the attention of all four ambush drakes near the main tent. [[Piiinuz]], spotted by Frulam, ducks behind a hut and urges nearby kobolds to help with the fire, adding to the chaos.
+The party breaks for the camp exit while the [[kobolds]] and [[Frulam Mondath]] are distracted by the fire. [[Garus]] helps [[Leosin Erlanthar|Leosin]] move, but the group is spotted almost immediately, everyone except [[Edgewyn]]. Garus trips and goes down with Leosin, drawing the attention of all four ambush drakes near the main tent. [[Piiinuz]], spotted by Frulam, ducks behind a hut and urges nearby kobolds to help with the fire, adding to the chaos.
 
 Garus crawls toward the exit dragging Leosin while [[Thora]], Edgewyn, and the prisoners follow, managing to slip past the main tent undetected. Ahead, Piiinuz, now in kobold disguise, talks the only conscious kobold in a nearby group into stepping into a hut, clearing the way. She is then given a handful of fleas by Edgewyn's, playing the part of a fan of his. The watchtower kobolds, distracted by the alarm bell and the fire, don't notice them approaching. The party makes it out and retreats to their earlier alcove, where the disguised kobold who followed them reveals herself as Piiinuz and her true nature as a changeling.
 
