@@ -1,3 +1,0 @@
-**Race/Class/Gender:** Humanoid female 
-**Location:** Likely at the camp or valley; signed orders for the ambush squad **Faction/Position/Rank:** Commander or officer within the [[Cult of the Dragon]] **Appearance:** Wears purple robes, has short cropped black hair and a halberd on her back.
-**Notes:** Signed a crumpled note found by [[Piiinuz]] instructing troops to "Guard the valley to the camp". The kobolds consider her a powerful wizard, mentioning how one time he healed one of them with her magic. 

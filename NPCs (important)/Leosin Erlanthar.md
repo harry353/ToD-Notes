@@ -1,3 +1,5 @@
+![[Pasted image 20260330220018.png|250]]
+
 **Race/Class/Gender:** Male half-elf monk  
 **Location:** Captured in the [[Cult of the Dragon]] camp
 **Faction/Position/Rank:** Member of the [[Harpers]]  
