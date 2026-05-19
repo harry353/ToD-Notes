@@ -6,7 +6,7 @@
       {
         "id": "4f66a810710feb2e",
         "type": "tabs",
-        "dimension": 46.227106227106226,
+        "dimension": 53.95348837209303,
         "children": [
           {
             "id": "b1f8a2e62bf7685e",
@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Garus Resurrection Notes.md",
+                "file": "PCs/Garus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Garus Resurrection Notes"
+              "title": "Garus"
             }
           }
         ],
@@ -56,7 +56,7 @@
       {
         "id": "3ebfc290f4650ef3",
         "type": "tabs",
-        "dimension": 53.772893772893774,
+        "dimension": 46.04651162790698,
         "children": [
           {
             "id": "7f3dbeb65022ea0e",
@@ -242,10 +242,10 @@
   },
   "active": "ab67d10b3e93e440",
   "lastOpenFiles": [
+    "Other/Garus Resurrection Notes.md",
     "Sessions/Session 12.md",
     "PCs/Thora.md",
     "Sessions/Session 8.md",
-    "Other/Garus Resurrection Notes.md",
     "NPCs (important)/Wearers of Purple Leaders/Cyanwrath.md",
     "Sessions/Session 9.md",
     "Sessions/Session 10.md",
