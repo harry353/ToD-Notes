@@ -1,0 +1,19 @@
+Wednesday, 17th of May, 2026
+
+## Session Summary
+
+The party wakes up, and [[Garus]] gives a speech to inspire his allies. [[Piiinuz]] goes looking for a large rod and begins carving designs into it. [[Governor Nighthill]] gives each party member a horse as part of their reward and sees them off alongside [[Eadyan Falconmoon]], as the party sets out for [[Berdusk]], and eventually [[Elturel]]. The journey to Berdusk will take about five days on horseback.
+
+The first few hours are uneventful, though [[Edgewyn]] notices the countryside has gone unusually quiet since the dragon attack. Eventually the party hears approaching hoofbeats, at least two horses, and [[Piiinuz]] estimates they'll be within sight in two to three minutes. The party hides behind a bunch of trees to wait. The hooves grow louder, and four riders come into view, some dressed in leather armor, some in plain clothing, pushing their horses hard. The lead rider, a human, spots the party, halts the group, and demands they identify themselves. Piiinuz catches a flash of silver, some kind of insignia, as he moves. After a brief exchange, the riders explain they're delivering humanitarian aid to [[Greenest]] and let the party go once they learn the party helped during the raid. They ask if the party knows anything about [[Nesim Waladra]]'s whereabouts during the attack, but [[Garus]] doesn't admit that they know he's safe. After the riders leave, the party recalls that Nesim had mentioned his brother already went ahead to Berdusk to call for help for Greenest. The rest of the day passes uneventfully, and the party camps roadside for the night.
+
+The next day, the party notices a small creature pacing around in the grass and shrub by the side of the road, circling but keeping its distance. [[Thora]] tries approaching it but scares it off. [[Edgewyn]] sends a bug to investigate, which reports back that it's a "funny looking, four-legged, lizard looking creature." [[Piiinuz]] tosses bits of food to coax it closer, and eventually a red snout emerges, sniffing the air, followed by the rest of its head: a miniature red dragon. Garus tries speaking to it in Draconic, getting only simple responses like "kin", "food", "warmth", and "safe?" He manages to get it to sniff his hand while Piiinuz feeds it more food. Though unsure what exactly it is, the party keeps interacting with it and realizes it's been trailing them for hours. When [[Edgewyn]] asks where it came from, it just conveys "nest". The party decides to keep it.
+
+Edgewyn names the horses Moldward, Brownward, Cookiesandcreamward, and Oba马, and names the dragon Spikey. The party continues on and camps again that night. During [[Thora]]'s watch, distracted, she spots a large owlbear rummaging through her bag. She stays still and lets it find and eat a ration bar. It then moves toward Spikey, but Thora scares it off, and again when it approaches the horses. The commotion wakes [[Edgewyn]] and [[Piiinuz]], who help see it away. The rest of the night passes without incident.
+
+## Key Events
+
+- The party departs [[Greenest]] on horses gifted by [[Governor Nighthill]], heading toward [[Berdusk]] and eventually [[Elturel]], a journey expected to take about five days.
+- The party encounters four riders rushing toward Greenest to deliver humanitarian aid; after a tense standoff, the riders let them pass but ask about [[Nesim Waladra]]'s whereabouts, which [[Garus]] withholds.
+- The party finds and slowly befriends a small, wary creature that turns out to be a miniature red dragon, eventually deciding to keep it as a companion and naming it Spikey.
+- [[Edgewyn]] names the party's horses Moldward, Brownward, Cookiesandcreamward, and Obama.
+- During a night watch, [[Thora]] handles an owlbear rummaging through camp, letting it eat a ration bar before scaring it away from Spikey and the horses.
